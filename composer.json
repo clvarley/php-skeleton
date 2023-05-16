@@ -1,0 +1,18 @@
+{
+    "name": "clvarley/library-skeleton",
+    "description": "Scaffold repo for spinning up new PHP libraries quickly",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clvarley\\LibrarySkeleton\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">= 7.4"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^5.11",
+        "phpunit/phpunit": "^9.6.8"
+    }
+}
