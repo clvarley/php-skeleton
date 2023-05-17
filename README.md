@@ -31,6 +31,8 @@ practices that can substantially improve code quality and thus lead to better
 outcomes. You are free to develop however you want, but for those who want peace
 of mind this scaffold comes pre-packed with some additional useful tools.
 
+Use or remove them as you see fit.
+
 ### PHPUnit
 
 
