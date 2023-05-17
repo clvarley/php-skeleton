@@ -20,4 +20,5 @@ To start a new project using this template you just need to:
     2. Your project description
     3. Your preferred license
     4. Your desired PSR-4 namespace
-4. Start creating your project! 🎉
+4. Delete the `Example` class and associated test
+5. Start creating your project! 🎉
