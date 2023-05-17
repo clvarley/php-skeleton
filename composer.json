@@ -8,6 +8,11 @@
             "Clvarley\\LibrarySkeleton\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Clvarley\\LibrarySkeleton\\Test\\": "test/"
+        }
+    },
     "require": {
         "php": ">= 7.4"
     },
