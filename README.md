@@ -18,6 +18,6 @@ To start a new project using this template you just need to:
 3. Update the `composer.json` file with
     1. Your project name
     2. Your project description
-    3. Change/remove license (if appropriate)
+    3. Your preferred license
     4. Your desired PSR-4 namespace
 4. Start creating your project! 🎉
