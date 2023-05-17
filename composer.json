@@ -1,16 +1,16 @@
 {
-    "name": "clvarley/library-skeleton",
-    "description": "Scaffold repo for spinning up new PHP libraries quickly",
-    "type": "library",
+    "name": "clvarley/php-skeleton",
+    "description": "Scaffold repo for spinning up new PHP projects quickly",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Clvarley\\LibrarySkeleton\\": "src/"
+            "Clvarley\\PhpSkeleton\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Clvarley\\LibrarySkeleton\\Test\\": "test/"
+            "Clvarley\\PhpSkeleton\\Test\\": "test/"
         }
     },
     "require": {

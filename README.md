@@ -1,6 +1,6 @@
-## Library Skeleton
+## Project Skeleton
 
-A basic skeleton that can be used for starting a new PHP project or library.
+A basic skeleton that can be used for quickly starting new PHP projects.
 
 Includes the following:
 
@@ -23,3 +23,16 @@ To start a new project using this template you just need to:
 4. Install dependencies with `composer install`
 5. Delete the `Example` class and associated test
 6. Start creating your project! 🎉
+
+## Development
+
+While there is no one-size-fits-all when it comes to development, there are best
+practices that can substantially improve code quality and thus lead to better
+outcomes. You are free to develop however you want, but for those who want peace
+of mind this scaffold comes pre-packed with some additional useful tools.
+
+### PHPUnit
+
+
+
+### Psalm

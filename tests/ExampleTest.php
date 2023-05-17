@@ -1,9 +1,9 @@
 <?php
 
-namespace Clvarley\LibrarySkeleton\Tests;
+namespace Clvarley\PhpSkeleton\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Clvarley\LibrarySkeleton\Example;
+use Clvarley\PhpSkeleton\Example;
 
 /**
  * An example of a unit test using PHPUnit

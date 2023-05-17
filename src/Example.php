@@ -1,6 +1,6 @@
 <?php
 
-namespace Clvarley\LibrarySkeleton;
+namespace Clvarley\PhpSkeleton;
 
 /**
  * Create your classes in the correct namespaces following PSR-4 style
